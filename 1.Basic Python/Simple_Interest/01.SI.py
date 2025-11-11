@@ -4,7 +4,7 @@ Simple Interest Calculator
 This program calculates simple interest using the formula:
 Simple Interest = (Principal * Rate * Time) / 100
 
-Author: madhugowda
+Author: madhu gowda
 Date: November 11, 2025
 File: 01.SI.py
 Description: A basic Python program to calculate simple interest given principal amount,
